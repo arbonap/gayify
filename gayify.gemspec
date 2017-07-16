@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A fun gem that adds a rainbow emojis to error messages.}
   spec.description   = %q{Do you ever get upset when you're debugging, and wish your error messages were a bit more encouraging? This fabulous gem gives you positie reenfocement via positive, emoji-filled messages. Keep debugging!}
-  spec.homepage      = patriciaarbona.com
+  spec.homepage      = "https://github.com/arbonap/gayify"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -33,4 +33,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.13"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
+  spec.add_dependency "activesupport", "~> 4.2.0"
 end
