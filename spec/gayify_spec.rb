@@ -9,4 +9,8 @@ describe Gayify::Gay do
   it ".rainbow responds with 🌈 rainbow emoji" do
     expect(Gayify::Gay.rainbow).to eql("🌈")
   end
+
+  it "pluralizes a word" do
+    expect(Gayify::Gay.pluralize("Gay")).to eql("Gays")
+  end
 end
