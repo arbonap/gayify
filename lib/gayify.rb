@@ -28,5 +28,8 @@ def happy
 end
 
 module Gayify
+  #gem install gayify --dev allows anyone to get development dependencies intalled.
+  #allows people to test a gem without having to fork it or clone it from Github
+  
   # Your code goes here...
 end
