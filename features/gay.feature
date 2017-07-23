@@ -1,4 +1,3 @@
-#ctrl alt j to jump to step
 Feature: Gay Agenda
   In order to portray or pluralize gay
   As a CLI
