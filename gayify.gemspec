@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Patricia Arbona"]
   spec.email         = ["arbonap@gmail.com"]
 
-  spec.summary       = %q{A fun gem that adds a rainbow emojis to error messages.}
-  spec.description   = %q{Do you ever get upset when you're debugging, and wish your error messages were a bit more encouraging? This fabulous gem gives you positie reenfocement via positive, emoji-filled messages. Keep debugging!}
+  spec.summary       = %q{A fun gem that adds queer-themed emojis to error messages.}
+  spec.description   = %q{Do you ever get upset when you're debugging, and wish your error messages were a bit more encouraging? This fabulous gem gives you emoji-filled messages to stay positive. Keep debugging!}
   spec.homepage      = "https://github.com/arbonap/gayify"
   spec.license       = "MIT"
 
